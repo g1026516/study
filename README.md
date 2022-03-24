@@ -9,3 +9,7 @@
 ###### - https://www.datacamp.com/community/data-science-cheatsheets?page=3
 ###### - https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf
 
+###### 분류ML 임계값 변화 
+###### - https://jays-lab.tistory.com/31
+###### - https://techblog-history-younghunjo1.tistory.com/101
+
