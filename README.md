@@ -6,4 +6,4 @@
 ###### - 21회 코드 참조 
 ###### cheat sheets 
 ###### - matplotlib https://github.com/matplotlib/cheatsheets  / https://matplotlib.org/cheatsheets/
-######
+###### - https://www.datacamp.com/community/data-science-cheatsheets?page=3
