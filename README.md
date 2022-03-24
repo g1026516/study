@@ -17,4 +17,6 @@
 ###### - https://techblog-history-younghunjo1.tistory.com/101
 ###### - https://ysyblog.tistory.com/72
 ###### - 다중분류 평가지표 https://blog.naver.com/fbfbf1/222455762411
-###### 
+###### -  정밀도 재현율 곡선, ROC 곡선 https://blog.naver.com/fbfbf1/222455553664
+######  
+
