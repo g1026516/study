@@ -7,3 +7,5 @@
 ###### cheat sheets 
 ###### - matplotlib https://github.com/matplotlib/cheatsheets  / https://matplotlib.org/cheatsheets/
 ###### - https://www.datacamp.com/community/data-science-cheatsheets?page=3
+###### - https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf
+
