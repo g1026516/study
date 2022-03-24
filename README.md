@@ -5,5 +5,5 @@
 ###### - 22회 코드 참조 
 ###### - 21회 코드 참조 
 ###### cheat sheets 
-###### - matplotlib https://github.com/matplotlib/cheatsheets
+###### - matplotlib https://github.com/matplotlib/cheatsheets  / https://matplotlib.org/cheatsheets/
 ######
