@@ -20,3 +20,5 @@
 ###### -  정밀도 재현율 곡선, ROC 곡선 https://blog.naver.com/fbfbf1/222455553664
 ######  
 
+
+###### - 2way ANOVA 상호작용항 포함 https://www.reneshbedre.com/blog/anova.html
