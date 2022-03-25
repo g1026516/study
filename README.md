@@ -22,3 +22,4 @@
 
 
 ###### - 2way ANOVA 상호작용항 포함 https://www.reneshbedre.com/blog/anova.html
+###### - 2way ANOVA (반복측정 mixed) https://www.reneshbedre.com/blog/mixed-anova.html
